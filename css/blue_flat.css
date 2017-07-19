@@ -1,0 +1,25 @@
+/*
+Use http://www.colorzilla.com/gradient-editor/ to easily create your own gradients
+
+Use http://ie.microsoft.com/testdrive/graphics/svggradientbackgroundmaker/default.html to make SVG's
+*/
+
+.rover-highlight-text {color:#333;}
+.rover-inverse {color:#fff;background: #e0f3fa;}
+.rover-border {border: 1px solid #cdc3b7;}
+.rover-border-bottom {border-bottom: 1px solid #DDD;}
+
+.rover-background,
+ul.token-input-list li.token-input-token.rover-background {
+background: #e0f3fa!important;
+}
+
+
+.rover-background:hover {
+color: #5E5E5E;
+background: #b6dffd!important;
+}
+
+.rover-active {
+background: #b2e1ff!important;
+}

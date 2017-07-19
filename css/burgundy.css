@@ -1,0 +1,26 @@
+/*
+Use http://www.colorzilla.com/gradient-editor/ to easily create your own gradients
+*/
+
+.rover-highlight-text {color:#FFF;}
+.rover-inverse {color:#fff;background: #555;}
+.rover-button-text, .rover-button-text-with-icon {	color: #FFF;}
+.rover-border {border-bottom: 1px solid #ccc;}
+.rover-border-bottom {border-bottom: 1px solid #DDD;}
+
+.rover-background,
+ul.token-input-list li.token-input-token.rover-background {
+background: #a1a1a1;
+}
+
+.rover-button {
+border: 1px solid #CCC;
+text-decoration: none;
+}
+.rover-button:hover {
+color: #FFF;
+background: #990000;
+}
+.rover-active {
+background: #990000;
+}
